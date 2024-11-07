@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shoaib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shoaib-mushtaq-bhat-9a2666190/)](https://www.linkedin.com/in/shoaib-mushtaq-bhat-9a2666190/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Shoaib-Mushtaq-Bhat-green)](https://shoaibmushtaqbhat.netlify.app/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Shoaib-green)](https://shoaibmushtaqbhat.netlify.app/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shoaib-yellow)](https://stackoverflow.com/users/19162462/shoaib-kashmiri)
 
 I'm
