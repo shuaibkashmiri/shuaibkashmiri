@@ -2,12 +2,12 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shoaib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shoaib-mushtaq-bhat-9a2666190/)](https://www.linkedin.com/in/shoaib-mushtaq-bhat-9a2666190/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Advicetech-green)](https://www.advicetech.ml)
+[![Website Badge](https://img.shields.io/badge/WebSite-Advicetech-green)](https://shoaibmushtaqbhat.netlify.app/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shoaib-yellow)](https://stackoverflow.com/users/19162462/shoaib-kashmiri)
 
 I'm
 Full Stack Web Developer
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technology NodeJs, front-end development (React, NextJS, HTML5, CSS3, Javascript, Responsive, UX), ,Database(MongoDB,Mysql), CI/CD(Docker, Rended ,Vercel)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/shuaibkashmiri/count.svg)
