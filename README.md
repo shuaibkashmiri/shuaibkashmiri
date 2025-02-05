@@ -69,5 +69,8 @@ I am well-versed in managing databases, implementing RESTful APIs, and integrati
 </a>
 
 ---
+### 📫 Connect with Me  
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=shuaibkashmiri&theme=react-dark&area=true)
+📩 Email: [shoaib@example.com](mailto:bhatshoaibmushtaq@gmail.com)  
+💼 LinkedIn: [Shoaib Mushtaq Bhat](https://www.linkedin.com/in/shoaib-mushtaq-bhat-9a2666190/)  
+🌐 Portfolio: [shoaibmushtaqbhat.netlify.app](https://shoaibmushtaqbhat.netlify.app/) 
