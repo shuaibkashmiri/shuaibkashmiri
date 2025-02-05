@@ -71,6 +71,6 @@ I am well-versed in managing databases, implementing RESTful APIs, and integrati
 ---
 ### 📫 Connect with Me  
 
-📩 Email: [shoaib@example.com](mailto:bhatshoaibmushtaq@gmail.com)  
+📩 Email: [bhatshoaibmushtaq@gmail.com](mailto:bhatshoaibmushtaq@gmail.com)  
 💼 LinkedIn: [Shoaib Mushtaq Bhat](https://www.linkedin.com/in/shoaib-mushtaq-bhat-9a2666190/)  
-🌐 Portfolio: [shoaibmushtaqbhat.netlify.app](https://shoaibmushtaqbhat.netlify.app/) 
+🌐 Portfolio: [Shoaib Mushtaq Bhat](https://shoaibmushtaqbhat.netlify.app/) 
