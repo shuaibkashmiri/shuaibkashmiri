@@ -1,7 +1,7 @@
 ### Hi Developers 👋  
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shoaib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shoaib-mushtaq-bhat-9a2666190/)](https://www.linkedin.com/in/shoaib-mushtaq-bhat-9a2666190/)  
-[![Website Badge](https://img.shields.io/badge/WebSite-Shoaib-green)](https://shoaibmushtaqbhat.netlify.app/)  
+[![Website Badge](https://img.shields.io/badge/WebSite-Shoaib-green)](https://shoaibkashmiri.site/)  
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shoaib-yellow)](https://stackoverflow.com/users/19162462/shoaib-kashmiri)  
 
 I'm a **Full Stack Web Developer** with a passion for crafting scalable, responsive, and efficient web applications. I specialize in building end-to-end solutions using the **MERN stack (MongoDB, Express, React, Node.js)**. I also have experience with modern frameworks like **Next.js** for server-side rendering and **React Native** for mobile app development.  
