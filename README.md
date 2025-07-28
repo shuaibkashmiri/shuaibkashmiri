@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Shoaib-green)](https://shoaibkashmiri.site/)  
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shoaib-yellow)](https://stackoverflow.com/users/19162462/shoaib-kashmiri)  
 
-Full Stack Web Developer with a strong foundation in building scalable and efficient server-side applications. Skilled in developing robust APIs and backend architectures using Node.js, Express, and various database systems including MongoDB , PostgreSQL  and other NoSQL/SQL solutions. Experienced in implementing RESTful APIs, ensuring data security, performance optimization, and seamless system integrations.
+I'm a Full Stack Web Developer with a strong foundation in building scalable and efficient server-side applications. Skilled in developing robust APIs and backend architectures using Node.js, Express, and various database systems including MongoDB , PostgreSQL  and other NoSQL/SQL solutions. Experienced in implementing RESTful APIs, ensuring data security, performance optimization, and seamless system integrations.
 
 On the front-end, proficient in creating dynamic, responsive user interfaces using modern frameworks like React, Next.js, and React Native for cross-platform mobile and web development. Focused on delivering intuitive and user-friendly experiences across devices.
 
