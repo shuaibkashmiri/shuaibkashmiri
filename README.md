@@ -4,9 +4,11 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Shoaib-green)](https://shoaibkashmiri.site/)  
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shoaib-yellow)](https://stackoverflow.com/users/19162462/shoaib-kashmiri)  
 
-I'm a **Full Stack Web Developer** with a passion for crafting scalable, responsive, and efficient web applications. I specialize in building end-to-end solutions using the **MERN stack (MongoDB, Express, React, Node.js)**. I also have experience with modern frameworks like **Next.js** for server-side rendering and **React Native** for mobile app development.  
+Full Stack Web Developer with a strong foundation in building scalable and efficient server-side applications. Skilled in developing robust APIs and backend architectures using Node.js, Express, and various database systems including MongoDB , PostgreSQL  and other NoSQL/SQL solutions. Experienced in implementing RESTful APIs, ensuring data security, performance optimization, and seamless system integrations.
 
-I am well-versed in managing databases, implementing RESTful APIs, and integrating CI/CD pipelines using tools like **Docker**, **Vercel**, and **Postman**. My strong foundation in JavaScript, combined with my focus on best practices, allows me to deliver high-quality, maintainable code for both front-end and back-end systems.  
+On the front-end, proficient in creating dynamic, responsive user interfaces using modern frameworks like React, Next.js, and React Native for cross-platform mobile and web development. Focused on delivering intuitive and user-friendly experiences across devices.
+
+Experienced in modern development workflows, including containerization with Docker, automated deployment using CI/CD pipelines, and cloud platforms like Vercel. Skilled with tools like Postman for API testing and integration. Committed to writing clean, maintainable code and following best practices throughout the development lifecycle. 
 
 ---
 
